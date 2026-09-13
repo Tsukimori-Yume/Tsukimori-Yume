@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF5757DB&height=300&section=header&text=Welcome+to+my+profile!🎉&fontSize=50)
 
 <a href="mailto:happyavocado.3.5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/happyavocado.3.5@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://steamcommunity.com/profiles/76561198769523991/" target="_blank"><img src="https://img.shields.io/badge/月森夢 Tsukimori Yume-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 
 ---
 Hello! I'm **月森夢 (Tsukimori Yume)**!
