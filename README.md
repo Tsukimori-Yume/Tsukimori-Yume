@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF5757DB&height=300&section=header&text=はじめまして+Nice+to+meet+you+만나서+반가워요&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=80C8B4&height=300&section=header&text=はじめまして+Nice+to+meet+you+만나서+반가워요&fontSize=30)
 
 <a href="mailto:happyavocado.3.5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/happyavocado.3.5@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
